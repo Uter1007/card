@@ -1,4 +1,4 @@
-It's me, Tierney!
+It's me, uter1007!
 
 # Usage
 Via npx:
